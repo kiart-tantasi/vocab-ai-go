@@ -1,5 +1,5 @@
-module github.com/kiart-tantasi/vocab-go
+module github.com/kiart-tantasi/vocab-ai-go
 
 go 1.22.2
 
-require github.com/joho/godotenv v1.5.1 // indirect
+require github.com/joho/godotenv v1.5.1
